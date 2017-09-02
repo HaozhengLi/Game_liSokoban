@@ -14,7 +14,7 @@ To initialization, please change the codes in the function "void CPushingBoxView
 
 cell[i][j].weitu = 1;
 
-#### 2) Set boxes' right places
+#### 2) Set boxes' destination
 
 cell[i][j].weitu = 2;
 
@@ -25,9 +25,10 @@ cell[i][j].thing = 2;
 #### 4) Set player's first place
 
 renx = t_renx = 4;
+
 reny = t_reny = 1;
 
-#### All i or x means col index, and all j and y means row index.
+#### Be careful, all the i or x means col index, and all the j and y means row index.
 
 ## 1 How to play?
 
