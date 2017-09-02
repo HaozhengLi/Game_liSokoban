@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/9/2 16:05:03。
+     1>项目“D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\PushingBox\PushingBox.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\PushingBox.res" PushingBox.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\Debug\PushingBox.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\Debug\PushingBox.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\Debug\PushingBox.lib" /MACHINE:X86 Debug\PushingBox.res
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\PushingBox.obj
+         Debug\PushingBoxDoc.obj
+         Debug\PushingBoxView.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         PushingBox.vcxproj -> D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\Debug\PushingBox.exe
+     1>已完成生成项目“D:\Output\VS_output\VisionAuditionBCI\PushingBox\PushingBox_v1.0.0\PushingBox\PushingBox.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.82
