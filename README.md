@@ -42,7 +42,7 @@ Press r to return to last step, but you only have one chance to return.
 
 Press space to pause.
 
-![image]https://github.com/HaozhengLi/Game_liSokoban/blob/master/result/result.jpg
+![image](https://github.com/HaozhengLi/Game_liSokoban/blob/master/result/result.jpg)
 
 # Have fun!! :)
 
